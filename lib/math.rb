@@ -9,7 +9,7 @@ puts number
 end
 
 def division(num1, num2)
-number = 4/2
+number = 4 / 2
 puts number
 end
 
