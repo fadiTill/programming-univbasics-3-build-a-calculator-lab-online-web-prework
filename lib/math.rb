@@ -19,7 +19,7 @@ puts number
 end
 
 def modulo(num1, num2)
-  number = (3 / 2)
+  number = (3 \ 2)
 puts number
 end
 
