@@ -24,5 +24,6 @@ puts number
 end
 
 def square_root(num)
-
+number = 1 ^ 2
+puts number
 end
